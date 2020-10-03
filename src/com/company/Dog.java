@@ -1,13 +1,13 @@
 package com.company;
 
-public class dog {
+public class Dog {
         private String name;
         private int age;
-        public dog(String n) {
+        public Dog(String n) {
             name = n;
             age = 3;
         }
-        public dog() {
+        public Dog() {
             name = "Baron";
             age = 3;
         }

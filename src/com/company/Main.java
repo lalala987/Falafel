@@ -1,5 +1,9 @@
 package com.company;
 
-public class main{
+public class Main {
+    public static void main(String[] args) {
+        Dog dog = new Dog();
+        dog.getAge();
+    }
 
 }
